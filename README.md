@@ -6,6 +6,8 @@ In the platform of your choice, solve the below problem and send us the link to 
 
 The purpose is to predict the weekly sales (demand) in physical retail stores.
 
+You'll be provided with a solution after you submit your solution.
+
 ## Data
 
 This is the historical data that covers sales from 2010-02-05 to 2012-11-01, in the file [stores_sales.csv](stores_sales.csv). Within this file you will find the following fields:
@@ -48,3 +50,10 @@ Send us the link to the repository with the solution.
 - Explain how you would retrain the model over time.
 - Explain how you would evaluate the model over time.
 - Explain how you would improve the model over time.
+
+## Key Differentiators
+
+- The code is well structured and easy to understand
+- The notebook / repository is well documented
+- Best practices in Python are followed
+- Strong understanding of mathematical concepts in machine learning
